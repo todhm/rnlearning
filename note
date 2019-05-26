@@ -1,0 +1,11 @@
+react-native run-ios
+
+1.eslint설치하기 
+npm install -g eslint
+vscode extensions eslint 설치하기 
+npm install --save-dev eslint-config-rallycoding
+
+sudo chown $(whoami) /Users/$(whoami)/Library/LaunchAgents
+
+justify-content:flex-start, 'center','flex-end'
+alignItems:'flex-start','center','flex-end'
