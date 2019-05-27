@@ -9,3 +9,13 @@ sudo chown $(whoami) /Users/$(whoami)/Library/LaunchAgents
 
 justify-content:flex-start, 'center','flex-end'
 alignItems:'flex-start','center','flex-end'
+
+center
+
+flex-end
+
+space-between:first top last end and equal space else containers
+
+space-around equal space
+
+flexDirection: determine justifyContent direction
